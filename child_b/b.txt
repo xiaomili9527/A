@@ -1,2 +1,3 @@
 bbb
-kan a 
+kan a
+我是A，我修改了子模块B
